@@ -3,7 +3,7 @@
 =================
 
 Pequeña aplicacion de mercado libre que consta de 3 componentes principales la caja de búsqueda, la visualización de resultados, y la descripción del detalle del producto.
-La funcionalidad principal es que en la vista de la caja deb busqueda, Pueda ingresar el producto a buscar y al enviar el formulario navegar a la vista de Resultados de búsqueda, visualizando solo 4 productos. Luego, al hacer click sobre uno de ellos, donde podra ver el Detalle de Producto.
+La funcionalidad principal es que en la vista de la caja de busqueda, Pueda ingresar el producto a buscar y al enviar el formulario navegar a la vista de Resultados de búsqueda, visualizando solo 4 productos. Luego, al hacer click sobre uno de ellos, donde podra ver el Detalle de Producto.
 
 ### Content ##
 
