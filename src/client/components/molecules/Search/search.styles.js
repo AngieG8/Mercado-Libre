@@ -19,14 +19,23 @@ const useStyles = makeStyles(() => ({
  
   search:{
     height: "50px",
+    display: "flex",
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between"
   },
 
   input: {
     textAlign: 'center',
     fontSize: "18px",
-    width: "95%",
+    width: "65%",
     padding:"8px"
   },
+  iconButton: {
+    width: "5%",
+    margin :0, 
+    paddind: 0,
+  }
 
 }));
 

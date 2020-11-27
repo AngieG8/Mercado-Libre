@@ -12,8 +12,9 @@ const useStyles = makeStyles(() => ({
   },
   button: {
     display: "grid",
-    gridTemplateColumns: "12% 71% 17%",
+    gridTemplateColumns: "17% 60% 17%",
     alignItems: "self-start",
+    justifyContent: "space-between",
     padding: "16px",
     height: "100%",
     width: "100%",

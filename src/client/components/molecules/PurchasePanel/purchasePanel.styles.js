@@ -4,16 +4,15 @@ const useStyles = makeStyles((theme) => ({
   root:{
   display: "flex",
   height: "100%",
-  width: "22%",
+  width: "28%",
   flexDirection:"column" 
   },
   button: {
     backgroundColor: "#3483fa",
     color: "#fff",
     '&:hover': {
-      color: 'rgba(255, 255, 255, 1) !important',
-      backgroundColor: '#274776)',
-      transform: "scale(1.01)"
+      backgroundColor: '#274776',
+      transnform: "scale(1.01)"
     },
   },
   condition: {
