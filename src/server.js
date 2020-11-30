@@ -2,8 +2,8 @@ import express from 'express';
 import React from 'react';
 import { renderToString } from 'react-dom/server';
 import App from './app';
-import Result from './components/Result';
-import Details from './components/Details';
+import Result from './client/components/pages/Result/Result';
+import Details from './client/components/pages/Details/Details';
 import template from './index';
 
 const server = express();
